@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Falak Shah
-🔭 I’m currently studying Computer Science with specialization in Data Analytics at VIT AP.
+- 🔭 I’m currently studying Computer Science with specialization in Data Analytics at VIT AP.
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Science
 - 🌱 I’m currently learning Web development.
 - 📫 How to reach me: falakshah245@gmail.com
